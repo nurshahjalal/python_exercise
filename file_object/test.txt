@@ -1,0 +1,3 @@
+Hello My Name is Nur
+I am a Python Developer
+Python is Fun<bound method Random.randint of <random.Random object at 0x000001C08C88E2A8>><built-in method random of Random object at 0x0000021A99C500A8>

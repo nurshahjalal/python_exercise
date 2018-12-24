@@ -1,0 +1,714 @@
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_62716_VM_View_And_Update_Memo_Tab
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63079_VM_Verified_visit_are_changed_to_Omit_visit_when_Do_Not_Bill_indicator_is_checked"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63215_Verify_User_Can_Fix_Exception_On_Visit"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_81596_VM_General_Bill_Units_always_be_set_to_1_for_Service_T1001"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_82590_VM_Visit_Details_Service_field_displays_service_visits_with_Manual_call"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85604_EVV_VM_Service_Description_appears_in_Manual_Call_Creation_and_VM_grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_85606_VM_Service_Description_appears_Reporting_page_where_service_dropdown"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_63907_Verify_History_Tab_Sorting"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64434_Verify_Visit_Statust_Incomplete_To_Verified_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64456_Verify_Visit_Status_After_Fixing_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_64520_Verify_User_Can_Change_Data_ON_Processed_Visit_Status"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67212_VM_Visit_Detail_Verify_Service_field_should_not_be_shown_on_Call_Log_tab_if_service_was_entered_after"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67379_VM_Verify_User_Can_Search_Select_Employee_With_Write_Permission"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_67657_VM_Open_Visit_Detail_Clicking_Anywhere_In_VM_Grid"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_68445_Verify_Error_Msg_GeneralTab_Without_Input_Reason"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69101_Verify_Visit_Status_Incomplete_To_Verified_Fixing_One_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69119_Verify_Visit_Status_Incomplete_To_Verified_With_Call_In_Call_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69127_Verify_Visit_Status_Incomplete_To_Verified_With_Adjust_In_Adjust_Out"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69128_Verify_Visit_Status_Omit_To_Verified_After_Fixing_exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69375_VM_Omit_visit_with_require_info_and_no_exception_will_change_to_Verified_after_turnoff_Do_Not_Bill"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69817_Verify_Visit_Status_Omit_To_Verified"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_69978_Verify_Missing_Service_Exception"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73522_Navigate_from_page_without_saving_Visit_Maintenance_VisitDetail_Memo_Tab"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_73752_Client_Additional_Save_Cancel_Buttons"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74257_VM_Verify_Error_When_User_Add_New_Call_Without_Client_Or_Employee_Or_DateTime"/>
+
+<class name="com.sandata.v8.functional.VisitMaintenance.VM.Auto_V8_TC_74417_Try_navigate_away_from_page_without_saving_Visit_Maintenance_VisitDetail_ClientTab"/>

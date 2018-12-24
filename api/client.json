@@ -1,0 +1,61 @@
+{
+  "ProviderIdentification": {
+    "ProviderID": "28007",
+    "ProviderQualifier": "Other"
+  },
+  "ClientID": "7109945",
+  "ClientFirstName": "Abbash",
+  "ClientMiddleInitial": "H",
+  "ClientLastName": "Jellys",
+  "PayerName": "ODM",
+  "ClientQualifier": "ClientCustomID",
+  "ClientMedicaidID": "78878092341",
+  "ClientIdentifier": "78678092341",
+  "SequenceID": "1234579",
+  "ClientCustomID": "423001",
+  "ClientOtherID": "68334",
+  "ClientSSN": "192807894",
+  "ClientTimezone": "US/Eastern",
+  "ClientAddress": [
+    {
+      "ClientAddressType": "Home",
+      "ClientAddressIsPrimary": "true",
+      "ClientAddressLine1": "36 West 5th Street",
+      "ClientAddressLine2": "10th Floor",
+      "ClientCounty": "Kings",
+      "ClientCity": "Manhattan",
+      "ClientState": "NY",
+      "ClientZip": "10017",
+      "ClientAddressLongitude": "30.98",
+      "ClientAddressLatitude": "40.09"
+    }
+  ],
+  "ClientPhone": [
+    {
+      "ClientPhoneType": "Home",
+      "ClientPhone": "2123459099"
+    }
+  ],
+  "ClientPayerInformation": [
+    {
+      "PayerID": "TC95821",
+      "PayerProgram": "TC95824",
+      "ProcedureCode": "HHA"
+    }
+  ],
+  "ClientResponsibleParty": [
+    {
+      "ClientContactType": "Family",
+      "ClientContractFirstName": "DavidhujdyDavidhRujdyDavidhujdy",
+      "ClientContactLastName": "Rutgos",
+      "ClientContactPhoneType": "Mobile",
+      "ClientContactPhone": "3478788467",
+      "ClientContactEmailAddress": "DavidD@sandata.com",
+      "ClientContactAddressLine1": "7 East 29th Street",
+      "ClientContactAddressLine2": "Apt 8I",
+      "ClientContactCity": "Brooklyn",
+      "ClientContactState": "NY",
+      "ClientContactZip": "11229"
+    }
+  ]
+}
