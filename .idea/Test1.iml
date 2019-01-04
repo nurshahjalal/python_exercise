@@ -9,8 +9,13 @@
     <orderEntry type="module" module-name="project1" />
     <orderEntry type="module" module-name="anaconda" />
     <orderEntry type="module" module-name="Test2" />
+    <orderEntry type="module" module-name="WebTest" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="" />
   </component>
   <component name="TestRunnerService">
-    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+    <option name="projectConfiguration" value="py.test" />
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
   </component>
 </module>
