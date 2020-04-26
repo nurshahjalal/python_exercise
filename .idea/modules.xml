@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Coursera/.idea/Coursera.iml" filepath="$PROJECT_DIR$/../Coursera/.idea/Coursera.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Problems_and_Solutions/.idea/Problems_and_Solutions.iml" filepath="$PROJECT_DIR$/../Problems_and_Solutions/.idea/Problems_and_Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyTutorial/.idea/PyTutorial.iml" filepath="$PROJECT_DIR$/../PyTutorial/.idea/PyTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Test1.iml" filepath="$PROJECT_DIR$/.idea/Test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Test2/.idea/Test2.iml" filepath="$PROJECT_DIR$/../Test2/.idea/Test2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../WebTest/.idea/WebTest.iml" filepath="$PROJECT_DIR$/../WebTest/.idea/WebTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../anaconda/.idea/anaconda.iml" filepath="$PROJECT_DIR$/../anaconda/.idea/anaconda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flask_blog/.idea/flask_blog.iml" filepath="$PROJECT_DIR$/../flask_blog/.idea/flask_blog.iml" />
       <module fileurl="file://$PROJECT_DIR$/../project1/.idea/project1.iml" filepath="$PROJECT_DIR$/../project1/.idea/project1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../WebAutomation/.idea/selenium.iml" filepath="$PROJECT_DIR$/../WebAutomation/.idea/selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
     </modules>
   </component>
 </project>

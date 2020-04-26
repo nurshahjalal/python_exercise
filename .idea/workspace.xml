@@ -2,50 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c25e5ad-30b3-41a0-9856-63121ee072af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/generator/gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension/list_comprehension2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recusrsive/recursive_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets/Advance_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zip/zip_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built_in/Any.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built_in/enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built_in/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built_in/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dunder_magic_method/dunder_magic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generator/generatorClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpack_arguments/argument_unpacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpack_arguments/dictionary_unpacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpack_arguments/named_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/site.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/static/profile_pics/dave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/static/profile_pics/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/static/profile_pics/pics.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask_blog/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Test1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Test1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random/randon_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/random/randon_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sets/set.py" beforeDir="false" afterPath="$PROJECT_DIR$/sets/set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repetative_Character_Count/count.py" beforeDir="false" afterPath="$PROJECT_DIR$/Repetative_Character_Count/count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../flask_blog/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_blog/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_blog/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_blog/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/static/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_blog/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_blog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_blog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flask_blog/flaskblog/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_blog/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_blog/templates/register.html" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gen.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/generator/gen.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="find_prime_number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Problems_and_Solutions/GeneralProblem/find_prime_number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -81,117 +86,23 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../flask_blog" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/regular_expression/search_special_character.py" />
-        <option value="$PROJECT_DIR$/regular_expression/regular_expression.py" />
-        <option value="$PROJECT_DIR$/regular_expression/sample" />
-        <option value="$PROJECT_DIR$/regular_expression/search_digit_norDigit_wordCharcater.py" />
-        <option value="$PROJECT_DIR$/regular_expression/search_word_character.py" />
-        <option value="$PROJECT_DIR$/regular_expression/search_word_boundary.py" />
-        <option value="$PROJECT_DIR$/regular_expression/Search_Begining_End_Of_String.py" />
-        <option value="$PROJECT_DIR$/regular_expression/search_email_pattern.py" />
-        <option value="$PROJECT_DIR$/regular_expression/search_phone_pattern.py" />
-        <option value="$PROJECT_DIR$/regular_expression/contact" />
-        <option value="$PROJECT_DIR$/regular_expression/search_email.py" />
-        <option value="$PROJECT_DIR$/regular_expression/search_url.py" />
-        <option value="$PROJECT_DIR$/regular_expression/regex_sub_group.py" />
-        <option value="$PROJECT_DIR$/regular_expression/search_names.py" />
-        <option value="$PROJECT_DIR$/regular_expression/findall_method.py" />
-        <option value="$PROJECT_DIR$/regular_expression/search_method.py" />
-        <option value="$PROJECT_DIR$/regular_expression/flag_search.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/test_groupTest.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/Page_Object/EmployeePage.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/TestScript/login_test.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/Core/driver_setup.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/Core/test_driver_setup.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/test_yield_fixture.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/test_sample_2.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/test_driver_setup.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/conftest.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/test_run_driver.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/Conf_Test/test_run_driver.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/Conf_Test/conftest.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/Conf_Test/booking_test.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/pytest_conftest/pytest_session_class/TestBase.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/pytest_conftest/pytest_session_class/conftest.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/pytest_conftest/pytest_session_class/booking_test.py" />
-        <option value="$PROJECT_DIR$/../WebTest/pytest_conftest/pytest_session_class/booking_test.py" />
-        <option value="$PROJECT_DIR$/../WebTest/pytest_conftest/pytest_session_class/test_google.py" />
-        <option value="$PROJECT_DIR$/../WebTest/pytest_conftest/pytest_session_class/conftest.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/Core/conftest.py" />
-        <option value="$PROJECT_DIR$/random/randon_data.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/Utilities/generic_function.py" />
-        <option value="$PROJECT_DIR$/recusrsive/recursive_method.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/TestScript/conftest.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/TestScript/test_login.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/Page_Object/login_page.py" />
-        <option value="$PROJECT_DIR$/../WebAutomation/Framework/Page_Object/Client_Page.py" />
-        <option value="$PROJECT_DIR$/../Problems_and_Solutions/GeneralProblem/find_pair_number.py" />
-        <option value="$PROJECT_DIR$/zip/zip_method.py" />
-        <option value="$PROJECT_DIR$/../Problems_and_Solutions/GeneralProblem/find_prime_number.py" />
-        <option value="$PROJECT_DIR$/sets/Advance_Set.py" />
-        <option value="$PROJECT_DIR$/sets/set.py" />
-        <option value="$PROJECT_DIR$/list_comprehension/list_comprehension2.py" />
-        <option value="$PROJECT_DIR$/generator/gen.py" />
-      </list>
-    </option>
+  <component name="ProjectId" id="1XOIX0j1zDoH9qQcy6GApBbWyLv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-13" />
-    <option name="y" value="156" />
-    <option name="width" value="1230" />
-    <option name="height" value="660" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
-              <item name="generator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Problems_and_Solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Problems_and_Solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="GeneralProblem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="env_info&#9;null&#9;null&#10;.join&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flask_blog/flaskblog/static" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -202,13 +113,6 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\nursh\PycharmProjects\WebAutomation\Framework\TestScript" />
-      <recent name="C:\Users\nursh\PycharmProjects\WebTest" />
-      <recent name="C:\Users\nursh\PycharmProjects\WebAutomation\pytest_conftest\pytest_session_class" />
-      <recent name="C:\Users\nursh\PycharmProjects\WebAutomation\pytest_conftest\pytest_session_scope" />
-      <recent name="C:\Users\nursh\PycharmProjects\WebAutomation\SeleniumTest\pytest_Example\Conf_Test" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nursh\PycharmProjects\WebAutomation\pytest_conftest\pytest_session_scope" />
       <recent name="C:\Users\nursh\PycharmProjects\WebAutomation\SeleniumTest\pytest_Example\Conf_Test" />
@@ -216,21 +120,58 @@
       <recent name="C:\Users\nursh\PycharmProjects\Problems_and_Solutions\github_python_problems" />
       <recent name="C:\Users\nursh\PycharmProjects\Problems_and_Solutions\GeneralProblem" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nursh\PycharmProjects\flask_blog\flaskblog\static" />
+      <recent name="C:\Users\nursh\PycharmProjects\WebAutomation\Framework\TestScript" />
+      <recent name="C:\Users\nursh\PycharmProjects\WebTest" />
+      <recent name="C:\Users\nursh\PycharmProjects\WebAutomation\pytest_conftest\pytest_session_class" />
+      <recent name="C:\Users\nursh\PycharmProjects\WebAutomation\pytest_conftest\pytest_session_scope" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.gen">
-    <configuration name="Advance_Set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.run">
+    <configuration name="CountRepetativeLetter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Test2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Test2/CountRepetativeLetter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StringTutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyTutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyTutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyTutorial/StringTutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="argument_unpacking" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,69 +179,39 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unpack_arguments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/Advance_Set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unpack_arguments/argument_unpacking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="find_prime_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Problems_and_Solutions" />
+    <configuration name="flt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Problems_and_Solutions/GeneralProblem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Coursera" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Problems_and_Solutions/GeneralProblem/find_prime_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Coursera/flt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="gen" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Test1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator/gen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="list_comprehension2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Test1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list_comprehension" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_comprehension/list_comprehension2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="quiz" type="PythonConfigurationType" factoryName="Python">
       <module name="Problems_and_Solutions" />
@@ -319,24 +230,30 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="zip_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Test1" />
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zip" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../flask_blog" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zip/zip_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../flask_blog/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Selenium" type="tests" factoryName="Unittests">
       <module name="selenium" />
@@ -351,6 +268,7 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;Framework.Core.test_driver_setup&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="WebTest" />
@@ -362,26 +280,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.quiz" />
+      <item itemvalue="Python.CountRepetativeLetter" />
+      <item itemvalue="Python.StringTutorial" />
+      <item itemvalue="Python.argument_unpacking" />
+      <item itemvalue="Python.flt" />
+      <item itemvalue="Python.run" />
       <item itemvalue="Python tests.Selenium" />
-      <item itemvalue="Python.zip_method" />
-      <item itemvalue="Python.Advance_Set" />
-      <item itemvalue="Python.find_prime_number" />
-      <item itemvalue="Python.list_comprehension2" />
-      <item itemvalue="Python.gen" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.gen" />
-        <item itemvalue="Python.find_prime_number" />
-        <item itemvalue="Python.list_comprehension2" />
-        <item itemvalue="Python.Advance_Set" />
-        <item itemvalue="Python.zip_method" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.StringTutorial" />
+        <item itemvalue="Python.flt" />
+        <item itemvalue="Python.CountRepetativeLetter" />
+        <item itemvalue="Python.argument_unpacking" />
       </list>
     </recent_temporary>
   </component>
@@ -430,32 +350,90 @@
       <configuration name="py.test for test_login.TestLogin.test_create_new_client" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22786458" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005208" side_tool="true" weight="0.35812965" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" x="0" y="0" width="1536" height="814" id="Run" order="2" sideWeight="0.50065106" side_tool="true" visible="true" weight="0.34344828" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49947917" weight="0.37103447" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" x="1920" y="351" width="1920" height="337" id="Debug" order="3" sideWeight="0.49934897" visible="true" weight="0.34344828" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32965517" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32731137" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../flask_blog" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1587796555567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587796555567" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587796510025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587796510025" />
+    <state width="1899" height="292" key="GridCell.Tab.0.bottom" timestamp="1587882047320">
+      <screen x="1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="292" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1920.1040@1920.8.1920.1040" timestamp="1587882047320" />
+    <state width="1515" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587799340578" />
+    <state width="1899" height="292" key="GridCell.Tab.0.center" timestamp="1587882047319">
+      <screen x="1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="292" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1920.1040@1920.8.1920.1040" timestamp="1587882047319" />
+    <state width="1515" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587799340578" />
+    <state width="1899" height="292" key="GridCell.Tab.0.left" timestamp="1587882047319">
+      <screen x="1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="292" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1920.1040@1920.8.1920.1040" timestamp="1587882047319" />
+    <state width="1515" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587799340578" />
+    <state width="1899" height="292" key="GridCell.Tab.0.right" timestamp="1587882047319">
+      <screen x="1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="292" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1920.1040@1920.8.1920.1040" timestamp="1587882047319" />
+    <state width="1515" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587799340578" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587845933179">
+      <screen x="1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824/1920.8.1920.1040@1920.8.1920.1040" timestamp="1587845933179" />
+    <state x="2472" y="261" key="Vcs.Push.Dialog.v2" timestamp="1587881689080">
+      <screen x="1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="261" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.8.1920.1040@1920.8.1920.1040" timestamp="1587881689080" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580910775448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580910775448" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587799221300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587799221300" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -551,11 +529,6 @@
           <option name="timeStamp" value="181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../Test2/CountRepetativeLetter.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="182" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/lambda_map_filter_reduce/lambda.py</url>
           <line>18</line>
           <option name="timeStamp" value="194" />
@@ -579,11 +552,6 @@
           <url>file://$PROJECT_DIR$/../Problems_and_Solutions/github_python_problems/problem_30_insert_number_in_list.py</url>
           <line>12</line>
           <option name="timeStamp" value="198" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Repetative_Character_Count/count.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/regular_expression/Search_Begining_End_Of_String.py</url>
@@ -632,8 +600,53 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/generator/gen.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="249" />
+          <line>30</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generator/generatorClass.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dunder_magic_method/dunder_magic.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/built_in/filter.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Repetative_Character_Count/count.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/built_in/enumerate.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Problems_and_Solutions/GeneralProblem/first_hundred_prime_sum.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Coursera/flt.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Coursera/flt.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Test2/CountRepetativeLetter.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="281" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -643,7 +656,6 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="250" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="tests">
@@ -731,358 +743,6 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/Page_Object/EmployeePage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/log/automation.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="2897">
-          <caret line="384" column="49" selection-start-line="384" selection-start-column="42" selection-end-line="384" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="427" selection-start-line="427" selection-end-line="427" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/Core/test_driver_setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="54" column="70" lean-forward="true" selection-start-line="15" selection-end-line="54" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/test_sample_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/test_groupTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/test_yield_fixture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/Conf_Test/booking_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/pytest_conftest/pytest_session_scope/booking_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/pytest_conftest/pytest_session_class/booking_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/pytest_conftest/pytest_session_class/test_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/pytest_conftest/pytest_session_class/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pluggy/manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pluggy/hooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7025">
-          <caret line="283" selection-start-line="283" selection-end-line="283" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/_pytest/runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="211" selection-start-line="211" selection-end-line="211" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pluggy/callers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5150">
-          <caret line="207" selection-start-line="207" selection-end-line="207" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebTest/pytest_conftest/pytest_session_class/test_base.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebTest/pytest_conftest/pytest_session_class/test_google.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/Conf_Test/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/SeleniumTest/pytest_Example/test_group/conftest2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/Core/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/TestScript/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebTest/pytest_conftest/pytest_session_class/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/Utilities/login.py" />
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/Utilities/customlog.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/Utilities/CustomLogger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-463" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random/randon_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/_pytest/python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3000">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/TestData/Locators/V8.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9525">
-          <caret line="381" column="27" selection-start-line="381" selection-start-column="3" selection-end-line="381" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recusrsive/recursive_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/TestScript/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/TestScript/automation.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/TestScript/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/Page_Object/login_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/TestData/V8/TestData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="13" column="77" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Problems_and_Solutions/GeneralProblem/find_pair_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zip/zip_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sets/Advance_Set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="11" selection-start-line="11" selection-end-line="19" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sets/set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="2" selection-end-line="4" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Problems_and_Solutions/GeneralProblem/nested_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="16" column="15" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/Page_Object/Client_Page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebAutomation/Framework/Utilities/generic_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="159" selection-start-line="159" selection-end-line="159" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WebTest/pytest_conftest/pytest_session_class/booking_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="109" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="109" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iterator/iterattor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list_comprehension/list_comprehension2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list_comprehension/list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Problems_and_Solutions/GeneralProblem/find_prime_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generator/gen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

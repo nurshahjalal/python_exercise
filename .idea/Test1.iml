@@ -10,6 +10,10 @@
     <orderEntry type="module" module-name="anaconda" />
     <orderEntry type="module" module-name="Test2" />
     <orderEntry type="module" module-name="WebTest" />
+    <orderEntry type="module" module-name="Coursera" />
+    <orderEntry type="module" module-name="PyTutorial" />
+    <orderEntry type="module" module-name="untitled" />
+    <orderEntry type="module" module-name="flask_blog" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
